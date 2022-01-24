@@ -1,0 +1,4 @@
+- NAME: Joey Hinckley
+- PHOTO: 
+- GRADUATION YEAR: 2023
+- PROJECT IDEA: Creating a game. Hopefullt a tower defense or an rpg either swift or unity.
