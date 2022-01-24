@@ -1,4 +1,4 @@
 - NAME: Joey Hinckley
-- PHOTO: 
+- PHOTO: https://www.theday.com/storyimage/NL/20170530/SPORT03/170539915/AR/0/AR-170539915.jpg&Maxw=800&q=62
 - GRADUATION YEAR: 2023
 - PROJECT IDEA: Creating a game. Hopefullt a tower defense or an rpg either swift or unity.
